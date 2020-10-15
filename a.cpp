@@ -1,7 +1,7 @@
 #include<iostream>
 #include<cstdlib>
 #include<cmath>
-#include<fsream>
+#include<fstream>
 using namespace std;
 
 
@@ -11,5 +11,7 @@ int main()
 	int b=4;
 	int c=a+b;
 	cout<<c<<endl;
+	cout<<"短视频功能开发完成"<<endl;
+
 	return 0;
 }
